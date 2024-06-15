@@ -56,7 +56,7 @@ const OurStory = () => {
                             </p>
                         </div>
                         <div className="mx-auto flex justify-start item-start flex-col space-y-4">
-                            <div className="flex rounded-sm shadow hover:shadow-lg items-start justify-start bg-red-200">
+                            <div className="flex rounded-sm shadow hover:shadow-lg items-start justify-start">
                                 <img
                                     src={image2}
                                     className="w-full object-contain h-[300px]"
@@ -67,7 +67,7 @@ const OurStory = () => {
                     </div>
                     <div className="mx-auto flex justify-center flex-col space-y-4 gap-16">
                         <div className="mx-auto flex justify-center flex-col space-y-4">
-                            <div className="flex rounded-sm bg-white shadow hover:shadow-lg items-center justify-center ">
+                            <div className="flex rounded-sm hover:shadow-lg items-center justify-center ">
                                 <img
                                     src={image1}
                                     className="w-full object-contain h-[350px]"

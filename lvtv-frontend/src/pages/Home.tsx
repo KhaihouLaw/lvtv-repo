@@ -67,7 +67,7 @@ function Home() {
                         <div className="flex rounded-sm md:w-96 w-full h-24 bg-white shadow hover:shadow-lg"></div>
                     </div>
                 </div>
-                <div className="flex justify-center mx-auto flex-col mt-10">
+                <div className="flex justify-center mx-auto flex-col mt-10 ">
                     <div className="mx-auto flex justify-center flex-col space-x-80">
                         <div>
                             <h1 className="text-4xl text-center mt-10">
@@ -76,7 +76,7 @@ function Home() {
                             <br />
                         </div>
                     </div>
-                    <div className="space-y-4">
+                    <div className="space-y-4 py-5">
                         <div className="mx-auto flex rounded-sm w-5/6 h-80 bg-white shadow p-20 hover:shadow-lg"></div>
                         <div className="mx-auto flex rounded-sm w-5/6 h-80 bg-white shadow p-20 hover:shadow-lg"></div>
                     </div>
